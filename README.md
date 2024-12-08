@@ -6,69 +6,73 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Android_Developer-2%2B_Years-2D9CDB?style=for-the-badge&logo=android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ML_Engineer-Aspiring-2D9CDB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Student-IUBAT-2D9CDB?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android_Developer-2%2B_Years-2D9CDB?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Badge" />
+    <img src="https://img.shields.io/badge/ML_Engineer-Aspiring-2D9CDB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Engineer Badge" />
+    <img src="https://img.shields.io/badge/Student-IUBAT-2D9CDB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student Badge" />
   </p>
 </div>
 
 <div align="left">
-  <h3>👨‍💻 About Me</h3>
+  <h3>👨‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
   <p>
     • 📱 Android Application Developer with 2+ years of experience in designing and developing mobile apps using Java, Kotlin, and modern Android SDKs<br>
     • 🤖 Aspiring Machine Learning/AI Engineer with expertise in data science, deep learning, and NLP<br>
-    • 🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT
+    • 🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT<br>
+    • 💡 Always eager to learn and explore new technologies<br>
+    • 🌟 Passionate about creating innovative solutions
   </p>
 </div>
 
 <div align="left">
-  <h3>🛠️ Tech Stack</h3>
+  <h3>🛠️ Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h3>
   <h4>Languages</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </p>
   
   <h4>Frameworks & Tools</h4>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bishwaprotapi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwaprotapi&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bishwaprotapi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwaprotapi&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&hide_border=true"/>
 </div>
 
 <div align="center">
-  <h3>🤝 Connect with Me</h3>
+  <h3>🤝 Connect with Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></h3>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://wa.me/your-number">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwaprotapi&theme=react&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwaprotapi&theme=tokyo-night&hide_border=true&radius=8" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bishwaprotapi&color=2D9CDB&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bishwaprotapi&color=2D9CDB&style=for-the-badge&label=Profile+Views"/>
+  
+  ![Snake animation](https://github.com/Bishwaprotapi/Bishwaprotapi/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
