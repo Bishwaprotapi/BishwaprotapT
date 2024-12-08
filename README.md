@@ -6,9 +6,9 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Android_Developer-2%2B_Years-2D9CDB?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Badge" />
-    <img src="https://img.shields.io/badge/ML_Engineer-Aspiring-2D9CDB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Engineer Badge" />
-    <img src="https://img.shields.io/badge/Student-IUBAT-2D9CDB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student Badge" />
+    <img src="https://img.shields.io/badge/Android_Application_Developer-2%2B_Years-2D9CDB?style=for-the-badge&logo=android&logoColor=white" alt="Android Application Developer " />
+    <img src="https://img.shields.io/badge/AI/ML_Engineer-Aspiring-2D9CDB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Engineer" />
+    <img src="https://img.shields.io/badge/Student-IUBAT-2D9CDB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student" />
   </p>
 </div>
 
