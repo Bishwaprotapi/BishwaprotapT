@@ -51,16 +51,16 @@
 
 <div align="center">
   <h3>🤝 Connect with Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></h3>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:bishwaprotapray458@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/bishwaprotap-ray">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://facebook.com/your-profile">
+  <a href="https://www.facebook.com/bishwaprotap1?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://wa.me/your-number">
+  <a href="https://wa.me/qr/EVSOXRO2OR4TH1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
