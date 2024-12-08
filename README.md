@@ -71,16 +71,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwaprotapi&theme=tokyo-night&hide_border=true&radius=8" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bishwaprotapi&color=2D9CDB&style=for-the-badge&label=Profile+Views"/>
-  
-  ![Snake animation](https://github.com/Bishwaprotapi/Bishwaprotapi/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
-
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bishwaprotapi/Bishwaprotapi/output/snake.svg" alt="Snake animation" />
-
